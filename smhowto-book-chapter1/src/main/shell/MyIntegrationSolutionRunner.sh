@@ -1,0 +1,1 @@
+java -cp myIntegrationSolution.jar com.mycompany.myIntegrationSolutionRunner
