@@ -1,0 +1,6 @@
+smx@root> log:tail
+22:04:01,608 | INFO  | rint Extender: 3 | TransportServerThreadSupport     | 50 - org.apache.activemq.activemq-core - 5.5.1 | Listening for connections at: stomp://localhost:61613
+22:04:01,610 | INFO  | rint Extender: 3 | TransportConnector               | 50 - org.apache.activemq.activemq-core - 5.5.1 | Connector stomp Started
+22:04:01,611 | INFO  | rint Extender: 3 | BrokerService                    | 50 - org.apache.activemq.activemq-core - 5.5.1 | ActiveMQ JMS Message Broker (default, ID:drone-48785-1340136241458-0:1) started
+^C
+smx@root>

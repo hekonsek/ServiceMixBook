@@ -1,0 +1,1 @@
+SERVICEMIX_HOME/bin/client.bat -u smx -p smx

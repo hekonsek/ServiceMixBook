@@ -1,0 +1,1 @@
+SERVICEMIX_HOME/bin/start

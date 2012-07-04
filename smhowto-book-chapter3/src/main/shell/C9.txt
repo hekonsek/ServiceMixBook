@@ -1,0 +1,5 @@
+22:08:38,615 | INFO  | FelixStartLevel  | Activator                        | 4 - org.ops4j.pax.logging.pax-logging-api - 1.6.3 | Disabling SLF4J API support.
+22:08:38,615 | INFO  | FelixStartLevel  | Activator                        | 4 - org.ops4j.pax.logging.pax-logging-api - 1.6.3 | Disabling Jakarta Commons Logging API support.
+22:08:38,616 | INFO  | FelixStartLevel  | Activator                        | 4 - org.ops4j.pax.logging.pax-logging-api - 1.6.3 | Disabling Log4J API support.
+22:08:38,616 | INFO  | FelixStartLevel  | Activator                        | 4 - org.ops4j.pax.logging.pax-logging-api - 1.6.3 | Disabling Avalon Logger API support.
+22:08:38,616 | INFO  | FelixStartLevel  | Activator                        | 4 - org.ops4j.pax.logging.pax-logging-api - 1.6.3 | Disabling JULI Logger API support.
