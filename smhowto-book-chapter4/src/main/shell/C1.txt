@@ -1,0 +1,8 @@
+# Root logger
+log4j.rootLogger=INFO, out, osgi:VmLogAppender
+log4j.throwableRenderer=org.apache.log4j.OsgiThrowableRenderer
+
+Log4J configuration after set to DEBUG level in order to get more fine-grained logging level
+# Root logger
+log4j.rootLogger=DEBUG, out, osgi:VmLogAppender
+log4j.throwableRenderer=org.apache.log4j.OsgiThrowableRenderer
