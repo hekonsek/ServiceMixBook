@@ -1,0 +1,5 @@
+smx@root> log:get com.example.Logger
+Level: INFO
+smx@root> log:set DEBUG com.example.Logger
+smx@root> log:get com.example.Logger
+Level: DEBUG

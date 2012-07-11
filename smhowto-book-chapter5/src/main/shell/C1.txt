@@ -1,0 +1,2 @@
+smx@root> log:get com.example.Logger
+Level: INFO
